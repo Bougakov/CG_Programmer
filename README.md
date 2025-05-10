@@ -1,4 +1,4 @@
-# [](https://github.com/climateguard/RadSens#official-library-for-radsens-by-climateguard)Official CG-Programmer library by ClimateGuard
+# Official CG-Programmer documentation by ClimateGuard
 
 **CG-Programmer is a CH340G-based programmer designed by ClimateGuard**
 
@@ -19,20 +19,19 @@
 ## Installation
 
 **For Windows:**
-- Download the [Windows archive](https://github.com/climateguard/CG_Programmer/tree/main/drivers/windows), unzip it and run **CH340SER.EXE** file.
+- Download the [Windows archive](https://github.com/climateguard/CG_Programmer/tree/main/drivers/windows), unzip it and run `CH340SER.EXE` file.
 
 **For Linux:**
-- Download the [Linux archive](https://github.com/climateguard/CG_Programmer/tree/main/drivers/linux), unzip it and run **Makefile** 
+- Download the [Linux archive](https://github.com/climateguard/CG_Programmer/tree/main/drivers/linux), unzip it and run `Makefile` 
 
 **For MacOS:**
-- Download the [Mac archive](https://github.com/climateguard/CG_Programmer/tree/main/drivers/mac), unzip it and run **CH34x_Install_V1.5.pkg** file following the instructions written in **ReadMe.pdf**
+- Download the [Mac archive](https://github.com/climateguard/CG_Programmer/tree/main/drivers/mac), unzip it and run `CH34x_Install_V1.5.pkg` file following the instructions written in `ReadMe.pdf`
 
 
-## [](https://github.com/climateguard/RadSens#instructions)Instructions
+## Instructions
 
-You can find datasheet and connection scheme in  ["extras" folder](https://github.com/climateguard/RadSens/tree/master/extras/)  
-Also you can check video guides in our [YouTube Channel](https://www.youtube.com/channel/UCp0ztK0nSK1sWZI-IgQqJeQ)
+You can find datasheet and connection scheme in ["extras" folder](https://github.com/climateguard/CG_Programmer/tree/main/extras/)  
 
-## [](https://github.com/climateguard/RadSens#contact-us)Contact us
+## Contact us
 - [ClimateGuard Community in Telegram](https://t.me/climateguard_community)  
 - [Our YouTube channel](https://www.youtube.com/channel/UCp0ztK0nSK1sWZI-IgQqJeQ)
